@@ -1,4 +1,4 @@
-#include "derive_class.hpp"
+#include "derived_class.hpp"
 
 int main() {
   DerivedClass derived_class_obj;

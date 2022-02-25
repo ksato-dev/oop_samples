@@ -2,8 +2,8 @@
 #include <vector>
 
 #include "base_class.hpp"
-#include "derive_class1.hpp"
-#include "derive_class2.hpp"
+#include "derived_class1.hpp"
+#include "derived_class2.hpp"
 
 int main() {
   std::vector<BaseClass*> obj_list;
