@@ -12,5 +12,5 @@
 
 ## Python
 ```
-/path/to/your/cpp/: python main.py
+/path/to/your/py/: python main.py
 ```
